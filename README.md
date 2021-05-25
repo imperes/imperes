@@ -1,7 +1,7 @@
 # Gabriel Peres
 
 ## I'm an Electronic Engineering Student
-Brazilian passionate about electronics (obviously), music, nature and games. New to the world of programming and loving it! Trying to learn as much as possible.
+Brazilian passionate about Electronics (obviously), music, nature and games. New to the world of programming and loving it! Trying to learn as much as possible.
 
 ## Skills and Experience
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
