@@ -14,16 +14,9 @@ Brazilian passionate about Electronics (obviously), music, nature and games. New
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
-- 🔭 I am currently working on hardware development for Seazone
-- 🌱 I am currently learning Python.
-- 🤔 I'm looking for help with anything that can make me grow.
-- 💬 Ask me about anything.
-
 ## You can find me on
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imperes) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/peres.gabriel.gabriel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/biel_peeres/)  
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/imperes) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/peres.gabriel.gabriel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/biel_peeres/)  
 
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imperes&layout=compact&theme=great-gatsby)](https://github.com/imperes/github-readme-stats)
+## Status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imperes&theme=great-gatsby&show_icons=true)](https://github.com/imperes/github-readme-stats)
