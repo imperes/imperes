@@ -15,7 +15,7 @@ Brazilian passionate about Electronics (obviously), music, nature and games. New
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## You can find me on
-[<img src='https://cdn-icons-png.flaticon.com/512/2515/2515875.png' alt='github' height='40'>](https://github.com/imperes) [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384069.png' alt='facebook' height='40'>](https://www.facebook.com/peres.gabriel.gabriel/)  [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384063.png' alt='instagram' height='40'>](https://www.instagram.com/biel_peeres/)  
+[<img src='https://cdn-icons-png.flaticon.com/512/2111/2111292.png' alt='github' height='40'>](https://github.com/imperes) [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384069.png' alt='facebook' height='40'>](https://www.facebook.com/peres.gabriel.gabriel/)  [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384063.png' alt='instagram' height='40'>](https://www.instagram.com/biel_peeres/)  
 
 ## Status
 
